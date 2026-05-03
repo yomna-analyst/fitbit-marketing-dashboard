@@ -5,8 +5,7 @@ Power BI | Power Query | DAX
 ## 🔹 Project Overview
 I developed a Digital Marketing Analytics Dashboard for Fitbit using Power BI to provide clear, actionable insights into campaign performance across ad platforms, product categories, and time periods.
 
-## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+
 
 ## 🔹 Data Preparation & Modeling
 - Cleaned and transformed data using Power Query
